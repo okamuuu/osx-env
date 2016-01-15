@@ -1,0 +1,16 @@
+---
+homebrew_packages:
+  - readline
+  - vim
+  - zsh
+  - screen
+  - git
+
+homebrew_cask_packages:
+  - java
+  - google-chrome
+  - firefox
+  - virtualbox
+  - vagrant
+  - dropbox
+  - adobe-reader
