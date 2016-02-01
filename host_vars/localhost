@@ -5,6 +5,9 @@ homebrew_packages:
   - zsh
   - homebrew/dupes/screen
   - git
+  - direnv
+  - ack
+  - jq
 
 homebrew_cask_packages:
   - java
