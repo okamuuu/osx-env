@@ -11,3 +11,7 @@ ansible-playbook -i hosts osx.yml
 ```
 
 brew cask 時に password を聞かれるので注意
+
+## TODO
+
+brew cask で Firefox が英語版にインストールされる -> cask を辞める？
